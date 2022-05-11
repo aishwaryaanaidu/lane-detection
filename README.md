@@ -1,2 +1,2 @@
-# lane-detection
+# Lane Detection
 Lane detection using Image processing algorithms
